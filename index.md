@@ -1,3 +1,12 @@
+#Jacob Levine's First CS193 Homework
+
+-learning with friends
+-Being taught by other college students
+-the goofy slides presentations
+-A chance to expand my knowledge
+-long deadlines
+-no big scary texts
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
