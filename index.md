@@ -1,11 +1,11 @@
-#Jacob Levine's First CS193 Homework
+# Jacob Levine's First CS193 Homework
 
--learning with friends
--Being taught by other college students
--the goofy slides presentations
--A chance to expand my knowledge
--long deadlines
--no big scary texts
+- learning with friends
+- Being taught by other college students
+- the goofy slides presentations
+- A chance to expand my knowledge
+- long deadlines
+- no big scary texts
 
 ## Welcome to GitHub Pages
 
